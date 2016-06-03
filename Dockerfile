@@ -1,4 +1,4 @@
-FROM postgres:latest
+FROM postgres:9.4
 
 MAINTAINER developers@synopsis.cz
 
