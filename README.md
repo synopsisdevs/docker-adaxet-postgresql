@@ -1,2 +1,2 @@
-# docker-adaxet-postgresql
+# docker-postgresql
 Docker images with PostgreSQL
